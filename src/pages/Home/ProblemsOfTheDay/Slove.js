@@ -6,7 +6,7 @@ const Slove = () => {
         let c = document.querySelector("#c").value;
 
         output = document.querySelector(" #output");
-        fetch("http://localhost:8000/api", {
+        fetch("https://benefique-chaise-56605.herokuapp.com/api", {
             method: "POST",
             headers: { "content-type": "application/json" },
             body: JSON.stringify({

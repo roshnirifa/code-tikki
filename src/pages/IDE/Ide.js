@@ -7,7 +7,7 @@ const Ide = () => {
         let c = document.querySelector("#c").value;
 
         output = document.querySelector(" #output");
-        fetch("http://localhost:8000/api", {
+        fetch("https://benefique-chaise-56605.herokuapp.com/api", {
             method: "POST",
             headers: { "content-type": "application/json" },
             body: JSON.stringify({
@@ -23,7 +23,7 @@ const Ide = () => {
         let cpp = document.querySelector("#cpp").value;
 
         output = document.querySelector(" #output");
-        fetch("http://localhost:8000/apicpp", {
+        fetch("https://benefique-chaise-56605.herokuapp.com/apicpp", {
             method: "POST",
             headers: { "content-type": "application/json" },
             body: JSON.stringify({
@@ -42,7 +42,7 @@ const Ide = () => {
         let python = document.querySelector("#python").value;
 
         output = document.querySelector(" #output");
-        fetch("http://localhost:8000/apipython", {
+        fetch("https://benefique-chaise-56605.herokuapp.com/apipython", {
             method: "POST",
             headers: { "content-type": "application/json" },
             body: JSON.stringify({
@@ -58,7 +58,7 @@ const Ide = () => {
         let java = document.querySelector("#java").value;
 
         output = document.querySelector("#output");
-        fetch("http://localhost:8000/apijava", {
+        fetch("https://benefique-chaise-56605.herokuapp.com/apijava", {
             method: "POST",
             headers: { "content-type": "application/json" },
             body: JSON.stringify({
@@ -76,18 +76,18 @@ const Ide = () => {
 
 
 
-            <div class=" ml-80 text-center mt-5">
-                <div class="input-group">
-                    <button class="btn">Languages</button>
-                    <select class="select select-bordered">
-                        <option disabled selected>C</option>
-                        <option>C++</option>
-                        <option>Python</option>
-                        <option>Java</option>
-                    </select>
 
-                </div>
+            <div class="input-group flex justify-center mt-5">
+                <button class="btn">Languages</button>
+                <select class="select select-bordered">
+                    <option disabled selected>C</option>
+                    <option>C++</option>
+                    <option>Python</option>
+                    <option>Java</option>
+                </select>
+
             </div>
+
 
 
 
