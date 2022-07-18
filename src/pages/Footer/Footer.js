@@ -1,9 +1,10 @@
 import React from 'react';
+import './Footer.css'
 
 const Footer = () => {
     return (
         <div>
-            <footer class="footer p-10 bg-base-200 text-base-content flex justify-evenly">
+            <footer class="footer p-10  text-base-content flex justify-evenly">
                 <div>
                     <span class="footer-title">Services</span>
                     <a class="link link-hover">Branding</a>

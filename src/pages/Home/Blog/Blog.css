@@ -1,0 +1,18 @@
+.blog-container {
+    background-color: #FBFBFB;
+}
+
+.vl {
+    border-left: 2px solid #9b9999;
+    height: 18px;
+    margin-left: 22px;
+    margin-right: 22px;
+    color: rgb(195, 164, 164);
+}
+
+hr {
+    width: 100%;
+    color: rgb(195, 164, 164);
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

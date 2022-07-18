@@ -1,42 +1,84 @@
 import React from 'react';
+import './Blog.css'
+import { FaRegStickyNote, FaClock } from 'react-icons/fa';
+import Time from 'react-time/lib/Time';
 
 const Blog = () => {
+    let now = new Date()
     return (
-        <div className='px-12 mb-5'>
-            <h1 className='text-4xl font-bold text-center my-8'>Blogs</h1>
-            <div class="grid grid-cols-2 gap-10">
-                <div class="card card-side bg-base-100 shadow-xl">
-                    <figure><img src="https://media.istockphoto.com/photos/blogging-woman-reading-blog-picture-id887987150?k=20&m=887987150&s=612x612&w=0&h=vCVYGvEkLb3DuCL7DOSoNm8i78Lci4oCt7XD4HGasIg=" alt="Movie" /></figure>
-                    <div class="card-body">
-                        <h2 class="card-title">New movie is released!</h2>
-                        <p>Click the button to watch on Jetflix app.</p>
-                        <div class="card-actions justify-end">
-                            <button class="btn btn-primary">Watch</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="card card-side bg-base-100 shadow-xl">
-                    <figure><img src="https://media.istockphoto.com/photos/blogging-woman-reading-blog-picture-id887987150?k=20&m=887987150&s=612x612&w=0&h=vCVYGvEkLb3DuCL7DOSoNm8i78Lci4oCt7XD4HGasIg=" alt="Movie" /></figure>
-                    <div class="card-body">
-                        <h2 class="card-title">New movie is released!</h2>
-                        <p>Click the button to watch on Jetflix app.</p>
-                        <div class="card-actions justify-end">
-                            <button class="btn btn-primary">Watch</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="card card-side bg-base-100 shadow-xl">
-                    <figure><img src="https://media.istockphoto.com/photos/blogging-woman-reading-blog-picture-id887987150?k=20&m=887987150&s=612x612&w=0&h=vCVYGvEkLb3DuCL7DOSoNm8i78Lci4oCt7XD4HGasIg=" alt="Movie" /></figure>
-                    <div class="card-body">
-                        <h2 class="card-title">New movie is released!</h2>
-                        <p>Click the button to watch on Jetflix app.</p>
-                        <div class="card-actions justify-end">
-                            <button class="btn btn-primary">Watch</button>
-                        </div>
-                    </div>
-                </div>
+        <div className='blog-container mt-10'>
+            <h1 className='text-2xl ml-48 py-5 font-bold'>Read Recent Blogs</h1>
+            <div className='px-48 pb-10'>
 
+                <div>
+                    <div>
+                        <h1 className='flex items-center text-xl'><FaRegStickyNote className="mr-4"></FaRegStickyNote>Exciting Updates for the month of June 2022</h1>
+
+                    </div>
+
+                    <div className='flex  items-center mt-4'>
+                        <div>
+                            <h2 className='text-primary text-xl  flex items-center'><a href="">Afsana Ifat</a><div className='vl'></div></h2>
+                        </div>
+                        <div className='flex items-center'>
+                            <FaClock className='mr-5'></FaClock>
+                            <div className='flex'>
+                                <p className='mr-4'><Time value={now} format="DD/MM/YYYY " />
+                                </p>
+                                <p>Time <Time value={now} format=" HH:mm" /></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <hr />
+                </div>
+                <div>
+                    <div>
+                        <h1 className='flex items-center text-xl'><FaRegStickyNote className="mr-4"></FaRegStickyNote>Exciting Updates for the month of June 2022</h1>
+
+                    </div>
+
+                    <div className='flex  items-center mt-4'>
+                        <div>
+                            <h2 className='text-primary text-xl  flex items-center'><a href="">Afsana Ifat</a><div className='vl'></div></h2>
+                        </div>
+                        <div className='flex items-center'>
+                            <FaClock className='mr-5'></FaClock>
+                            <div className='flex'>
+                                <p className='mr-4'><Time value={now} format="DD/MM/YYYY " />
+                                </p>
+                                <p>Time <Time value={now} format=" HH:mm" /></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <hr />
+                </div>
+                <div>
+                    <div>
+                        <h1 className='flex items-center text-xl'><FaRegStickyNote className="mr-4"></FaRegStickyNote>Exciting Updates for the month of June 2022</h1>
+
+                    </div>
+
+                    <div className='flex  items-center mt-4'>
+                        <div>
+                            <h2 className='text-primary text-xl  flex items-center'><a href="">Afsana Ifat</a><div className='vl'></div></h2>
+                        </div>
+                        <div className='flex items-center'>
+                            <FaClock className='mr-5'></FaClock>
+                            <div className='flex'>
+                                <p className='mr-4'><Time value={now} format="DD/MM/YYYY " />
+                                </p>
+                                <p>Time <Time value={now} format=" HH:mm" /></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <hr />
+                </div>
             </div>
+
+
         </div>
     );
 };
