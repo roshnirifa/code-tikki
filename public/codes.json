@@ -1,73 +1,73 @@
 [
     {
         "id": "1",
-        "code": "two sum",
+        "code": "DETSCORE",
         "name": "sum of two num",
         "difficulty": "easy"
     },
     {
         "id": "2",
-        "code": "sum",
+        "code": "CHEFONDATE",
         "name": "sum of two num",
         "difficulty": "easy"
     },
     {
         "id": "3",
-        "code": "sum",
+        "code": "CHESSTIME",
         "name": "sum of three num",
         "difficulty": "easy"
     },
     {
         "id": "4",
-        "code": "sum",
+        "code": "ARRAY INDEX",
         "name": "array index",
         "difficulty": "hard"
     },
     {
         "id": "5",
-        "code": "sum",
-        "name": "sum of two num",
+        "code": "INTRDSGN",
+        "name": "INTRDSGN",
         "difficulty": "easy"
     },
     {
         "id": "6",
-        "code": "sum",
+        "code": "MINCOINSREQ",
         "name": "sum of two num",
         "difficulty": "medium"
     },
     {
         "id": "7",
-        "code": "sum",
+        "code": "LASTLEVELS",
         "name": "sum of two num",
         "difficulty": "medium"
     },
     {
         "id": "8",
-        "code": "sum",
+        "code": "EZSPEAK",
         "name": "sum of two num",
         "difficulty": "hard"
     },
     {
         "id": "9",
-        "code": "sum",
+        "code": "MAKEPALAGAIN",
         "name": "sum of two num",
         "difficulty": "hard"
     },
     {
         "id": "10",
-        "code": "sum",
+        "code": "MINCOST",
         "name": "sum of two num",
         "difficulty": "easy"
     },
     {
         "id": "11",
-        "code": "sum",
+        "code": "TREERET",
         "name": "sum of two num",
         "difficulty": "hard"
     },
     {
         "id": "12",
-        "code": "sum",
+        "code": "FLOW001",
         "name": "sum of two num",
         "difficulty": "medium"
     },
@@ -79,61 +79,61 @@
     },
     {
         "id": "14",
-        "code": "sum",
+        "code": "BIRYANI",
         "name": "sum of two num",
         "difficulty": "medium"
     },
     {
         "id": "15",
-        "code": "sum",
+        "code": "DETSCORE",
         "name": "sum of two num",
         "difficulty": "easy"
     },
     {
         "id": "16",
-        "code": "sum",
+        "code": "MY1STCONTEST",
         "name": "sum of two num",
         "difficulty": "easy"
     },
     {
         "id": "17",
-        "code": "sum",
+        "code": "PRIZEPOOL",
         "name": "sum of two num",
         "difficulty": "hard"
     },
     {
         "id": "18",
-        "code": "sum",
+        "code": "SNDMAX",
         "name": "sum of two num",
         "difficulty": "hard"
     },
     {
         "id": "19",
-        "code": "sum",
+        "code": "ENSPACE",
         "name": "sum of two num",
         "difficulty": "medium"
     },
     {
         "id": "20",
-        "code": "sum",
+        "code": "ENSPACE",
         "name": "sum of two num",
         "difficulty": "easy"
     },
     {
         "id": "21",
-        "code": "sum",
+        "code": "ENSPACE",
         "name": "sum of two num",
         "difficulty": "hard"
     },
     {
         "id": "22",
-        "code": "sum",
+        "code": "MINHEIGHT",
         "name": "sum of two num",
         "difficulty": "hard"
     },
     {
         "id": "23",
-        "code": "sum",
+        "code": "MINHEIGHT",
         "name": "sum of two num",
         "difficulty": "medium"
     },
@@ -151,7 +151,7 @@
     },
     {
         "id": "26",
-        "code": "sum",
+        "code": "MINHEIGHT",
         "name": "sum of two num",
         "difficulty": "medium"
     },

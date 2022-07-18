@@ -18,6 +18,7 @@ import Blog from './pages/Home/Blog/Blog';
 
 import UserProfile from './pages/UserProfile/UserProfile';
 import CodeDetail from './pages/Problem/CodeDetail/CodeDetail';
+import Footer from './pages/Footer/Footer';
 
 function App() {
   return (
@@ -39,6 +40,7 @@ function App() {
         <Route path='/problem' element={<Problem></Problem>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
+      <Footer></Footer>
       <ToastContainer />
 
 
