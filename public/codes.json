@@ -3,300 +3,350 @@
         "id": "1",
         "code": "DETSCORE",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "2",
         "code": "CHEFONDATE",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "3",
         "code": "CHESSTIME",
         "name": "sum of three num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "4",
         "code": "ARRAY INDEX",
         "name": "array index",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "5",
         "code": "INTRDSGN",
         "name": "INTRDSGN",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "6",
         "code": "MINCOINSREQ",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "7",
         "code": "LASTLEVELS",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "8",
         "code": "EZSPEAK",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "9",
         "code": "MAKEPALAGAIN",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "10",
         "code": "MINCOST",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "11",
         "code": "TREERET",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "12",
         "code": "FLOW001",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "13",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "14",
         "code": "BIRYANI",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "15",
         "code": "DETSCORE",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "16",
         "code": "MY1STCONTEST",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "17",
         "code": "PRIZEPOOL",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "18",
         "code": "SNDMAX",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "19",
         "code": "ENSPACE",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "20",
         "code": "ENSPACE",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "21",
         "code": "ENSPACE",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "22",
         "code": "MINHEIGHT",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "23",
         "code": "MINHEIGHT",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "24",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "25",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "26",
         "code": "MINHEIGHT",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "27",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "28",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "29",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "30",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "234"
+        "difficulty": "234",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "31",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "32",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "33",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "34",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "35",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "36",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "Chef appeared for a placement test. There is a problem worth XX points. Chef finds out that the problem has exactly 1010 test cases. It is known that each test case is worth the same number of points.Chef passes NN test cases among them. Determine the score Chef will get."
     },
     {
         "id": "37",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     },
     {
         "id": "38",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     },
     {
         "id": "39",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     },
     {
         "id": "40",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     },
     {
         "id": "41",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     },
     {
         "id": "42",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     },
     {
         "id": "43",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     },
     {
         "id": "44",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     },
     {
         "id": "45",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     },
     {
         "id": "46",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     },
     {
         "id": "47",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     },
     {
         "id": "48",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     },
     {
         "id": "49",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     },
     {
         "id": "50",
         "code": "sum",
         "name": "sum of two num",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "problem": "According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for XX weeks, and the cost of classes per week is YY coins. What is the total amount of money that Chef will have to pay?"
     }
 ]

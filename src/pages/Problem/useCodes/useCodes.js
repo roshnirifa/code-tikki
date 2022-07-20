@@ -8,6 +8,8 @@ const useCodes = () => {
             .then(res => res.json())
             .then(data => setCodes(data))
     }, []);
-    return [codes, setCodes];
+    // return [codes, setCodes];
+    return [codes];
+
 }
 export default useCodes;

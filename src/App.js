@@ -19,6 +19,11 @@ import Blog from './pages/Home/Blog/Blog';
 import UserProfile from './pages/UserProfile/UserProfile';
 import CodeDetail from './pages/Problem/CodeDetail/CodeDetail';
 import Footer from './pages/Footer/Footer';
+import Slove from './pages/Home/ProblemsOfTheDay/Slove';
+import ProblemStatement from './pages/Problem/CodeDetail/ProblemStatement/ProblemStatement';
+import Submission from './pages/Problem/CodeDetail/Submission/Submission';
+import DificultyLevel from './pages/Problem/CodeDetail/DificultyLevel/DificultyLevel';
+import Solution from './pages/Problem/CodeDetail/Solution/Solution';
 
 function App() {
   return (
@@ -29,15 +34,26 @@ function App() {
         <Route path='/' element={<Home></Home>}></Route>
         <Route path='/ide' element={<Ide></Ide>}></Route>
 
-        <Route path='/codeDetail/:codeDetailId' element={
+        <Route path='/codeDetail/:codeDetailCode' element={
           <CodeDetail></CodeDetail>
-        }></Route>
+        }>
+
+          <Route path='problemStatement' element={<ProblemStatement></ProblemStatement>}></Route>
+          <Route path='submission' element={<Submission></Submission>}>
+          </Route>
+          <Route path='difficultLevel' element={<DificultyLevel></DificultyLevel>}>
+          </Route>
+          <Route path='solution' element={<Solution></Solution>}>
+          </Route>
+        </Route>
 
         <Route path='/blogs' element={<Blog></Blog>}></Route>
         <Route path='/userProfile' element={<UserProfile></UserProfile>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='/signin' element={<Register></Register>}></Route>
         <Route path='/problem' element={<Problem></Problem>}></Route>
+        <Route path='/slove' element={<Slove></Slove>}></Route>
+
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
       <Footer></Footer>

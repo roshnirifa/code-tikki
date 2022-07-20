@@ -9,6 +9,7 @@ import { useNavigate } from 'react-router-dom';
 const Problem = () => {
 
     const [codes] = useCodes();
+    // console.log(codes);
 
     const navigate = useNavigate();
 
