@@ -13,8 +13,8 @@ const Problem = () => {
 
     const navigate = useNavigate();
 
-    const handleCode = (id) => {
-        navigate(`/codeDetail/${id}`)
+    const handleCode = (code) => {
+        navigate(`/codeDetail/${code}`)
     }
     const easy = () => {
         let table = document.getElementById('table_filter');
@@ -89,7 +89,7 @@ const Problem = () => {
                         codes.map(code => <tr key={code.id}>
 
                             <td className=''>{code.code}</td>
-                            <td className='text-primary cursor-pointer ' onClick={() => handleCode(code.id)} >{code.name} <span class="badge  ">new</span></td>
+                            <td className='text-primary cursor-pointer ' onClick={() => handleCode(code.code)} >{code.name} <span class="badge  ">new</span></td>
                             <td>{code.difficulty}</td>
                         </tr>)
                     }

@@ -2,6 +2,7 @@ import React from 'react';
 import { Link, Outlet, useParams } from 'react-router-dom';
 import useCodes from '../useCodes/useCodes';
 import { useQuery } from 'react-query';
+import Loadin from '../../Shared/Loading/Loadin';
 
 
 const CodeDetail = () => {
@@ -9,26 +10,22 @@ const CodeDetail = () => {
     // let [codes] = useCodes()
     // console.log(codes);
     // let { data, isLoading } = useQuery('codex', () => fetch("codes.json").then(res => res.json()));
-    let { data: orders, isLoading, refetch } = useQuery('orders', () => fetch('codes.json').then(res => res.json()));
-    if (isLoading) {
-        return <p> loadning </p>
-    }
-    console.log(orders);
 
-    let handledata = () => {
-        fetch("codes.json")
-            .then(res => res.json())
-            .then(data => console.log(data))
-        console.log("rwr")
-    }
+
+    // let { data: orders, isLoading, refetch } = useQuery('orders', () => fetch('codes.json').then(res => res.json()));
+    // if (isLoading) {
+    //     return <Loadin></Loadin>
+    // }
+    // console.log(orders);
+
 
     return (
         <div >
             <h3 className='text-2xl mt-5'>Code detail: {codeDetailCode}</h3>
 
-            <button onClick={handledata}>on</button>
 
-            {/* <div class="drawer">
+
+            <div class="drawer">
                 <input id="my-drawer-3" type="checkbox" class="drawer-toggle" />
                 <div class="drawer-content flex flex-col">
 
@@ -78,7 +75,7 @@ const CodeDetail = () => {
                     </ul>
 
                 </div>
-            </div> */}
+            </div>
         </div>
     );
 };
